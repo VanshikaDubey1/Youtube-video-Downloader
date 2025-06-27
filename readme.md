@@ -15,7 +15,7 @@ A simple web app built with **Flask** and **Pytube** that allows users to downlo
 
 ## 📸 Preview
 
-![screenshot](preview.png) <!-- Add an actual screenshot of your UI and name it preview.png -->
+![screenshot](Preview.png) <!-- Add an actual screenshot of your UI and name it preview.png -->
 
 ---
 
